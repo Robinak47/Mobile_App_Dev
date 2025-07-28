@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+    <string-array name="contries">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>Usa</item>
+    </string-array>
+</resources>
