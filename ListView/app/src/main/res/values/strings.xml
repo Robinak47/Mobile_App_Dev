@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListVIew</string>
+    <string-array name="Students">
+        <item>Mr.x</item>
+        <item>Mr.xx</item>
+        <item>Mr.xy</item>
+        <item>Mr.xxyz</item>
+        <item>Mr.xyuy</item>
+        <item>Mr.xjhgd</item>
+        <item>Mr.xsfdsfd</item>
+        <item>Mr.xsfds</item>
+        <item>Mr.xsfsw</item>
+        <item>Mr.xfjbvvdv</item>
+        <item>Mr.xsdfs</item>
+        <item>Mr.xsf</item>
+        <item>Mr.xdd</item>
+        <item>Mr.xwe</item>
+        <item>Mr.xdff</item>
+        <item>Mr.xdd</item>
+        <item>Mr.xdfd</item>
+        <item>Mr.xdfd</item>
+        <item>Mr.xse</item>
+        <item>Mr.xwfe</item>
+        <item>Mr.xsfs</item>
+        <item>Mr.xsfs</item>
+        <item>Mr.xsfs</item>
+        <item>Mr.sfx</item>
+        <item>Mr.xsfs</item>
+    </string-array>
+</resources>
