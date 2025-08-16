@@ -4,16 +4,21 @@ plugins {
 }
 
 android {
-    
-    namespace = "com.mobileappdevelopment.fregmenttest"
+
+    buildFeatures {
+        viewBinding=true;
+    }
+
+
+    namespace = "com.mobileappdevelopment.viewbinding"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.mobileappdevelopment.fregmenttest"
+        applicationId = "com.mobileappdevelopment.viewbinding"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
-        versionName = "1.0"gitgit
+        versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -43,7 +48,6 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
-    implementation(libs.androidx.fragment)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
