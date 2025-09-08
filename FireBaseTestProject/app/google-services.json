@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "523604650974",
+    "firebase_url": "https://classroomexample-312ec-default-rtdb.firebaseio.com",
+    "project_id": "classroomexample-312ec",
+    "storage_bucket": "classroomexample-312ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523604650974:android:18aa106cb5ea4db58e0b4f",
+        "android_client_info": {
+          "package_name": "com.mobileappdevelopment.firebasetestproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdRAHADHI5rgLdscg9mFLVaKPg7njlds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
